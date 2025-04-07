@@ -18,3 +18,8 @@ Projetos desenvolvidos em SQL e Power BI:
 
 6 - Desempenho e satisfação dos funcionários
 
+
+
+
+Obs: dashboard salvo em PDF (desformatado)
+
