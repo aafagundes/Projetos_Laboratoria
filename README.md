@@ -20,4 +20,6 @@ Projetos desenvolvidos em SQL e Power BI:
 
 
 Dados obtidos no Kaggle.
+
+
 Aprendizagem Colaborativa, ETL e Apresentação de Resultados.
