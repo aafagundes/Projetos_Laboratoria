@@ -1,4 +1,4 @@
-# Projetos_Laboratoria
+## Projetos_Laboratoria
 Certificação em análise de dados em parceria com a IBM
 Realizado em 2022
 
@@ -19,7 +19,5 @@ Projetos desenvolvidos em SQL e Power BI:
 6 - Desempenho e satisfação dos funcionários
 
 
-
-
-Obs: dashboard salvo em PDF (desformatado)
-
+Dados obtidos no Kaggle.
+Aprendizagem Colaborativa, ETL e Apresentação de Resultados.
